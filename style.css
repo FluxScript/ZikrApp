@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f4f4f4;
+  text-align: center;
+}
+header h1 {
+  margin-top: 60px;
+  margin-bottom: 20px;
+  font-size: 50px;
+}
+header p {
+  margin-bottom: 60px;
+  font-size: 18px;
+  color: #8789a3;
+}
+.hero {
+  border-radius: 50px;
+  overflow: hidden;
+  background-color: aqua;
+  height: 500px;
+  width: 370px;
+  margin: 20px auto;
+}
+.hero img {
+  height: 100%;
+}
+button {
+  background-color: #fd4a4a;
+  border: none;
+  font-size: 20px;
+  color: white;
+  padding: 15px 30px;
+  border-radius: 50px;
+  margin-top: 30px;
+}
